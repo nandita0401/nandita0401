@@ -2,7 +2,7 @@
 
 # Hi, I'm Nandita Bharambe 👋🌿
 
-### AI/ML Engineer · Data Analyst · Full Stack Developer · Software Engineer
+### Software Engineer · Full Stack Developer · Data Analyst · AI/ML Engineer    
 
 *Building technology that makes people's lives better — from drug safety to mental wellness to smarter content.*
 
